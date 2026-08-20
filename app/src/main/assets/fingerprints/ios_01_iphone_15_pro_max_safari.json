@@ -1,0 +1,56 @@
+{
+  "id": "ios-01-safari17",
+  "name": "iOS · iPhone 15 Pro Max · Safari",
+  "os": "iOS",
+  "browser": "Safari",
+  "version": "17.5",
+  "screenWidth": 430,
+  "screenHeight": 932,
+  "devicePixelRatio": 3.0,
+  "hardwareConcurrency": 6,
+  "deviceMemory": 8,
+  "webglVendor": "Apple Inc.",
+  "webglRenderer": "Apple GPU",
+  "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17 5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1",
+  "platform": "iPhone",
+  "language": "es-MX",
+  "languages": [
+    "es-MX",
+    "es",
+    "en-US",
+    "en"
+  ],
+  "clientHints": {},
+  "microphones": 1,
+  "speakers": 1,
+  "webcams": 1,
+  "fonts": [
+    "-apple-system",
+    "Helvetica Neue",
+    "Helvetica",
+    "Arial",
+    "Times New Roman",
+    "Georgia"
+  ],
+  "voices": [
+    {
+      "name": "Paulina",
+      "lang": "es-MX",
+      "localService": true,
+      "default": true
+    },
+    {
+      "name": "Samantha",
+      "lang": "en-US",
+      "localService": true,
+      "default": false
+    }
+  ],
+  "timezone": "America/Mexico_City",
+  "connectionType": "wifi",
+  "effectiveType": "4g",
+  "downlink": 30.0,
+  "rtt": 50,
+  "batteryLevel": 0.72,
+  "batteryCharging": false
+}

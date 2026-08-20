@@ -1,0 +1,17 @@
+{
+  "noiseSeed": 12648430,
+  "userAgent": "",
+  "platform": "",
+  "os": "",
+  "language": "es-MX",
+  "languages": ["es-MX", "es", "en-US", "en"],
+  "screenWidth": 0,
+  "screenHeight": 0,
+  "devicePixelRatio": 0,
+  "webglVendor": "",
+  "webglRenderer": "",
+  "timezone": "America/Mexico_City",
+  "hardwareConcurrency": 0,
+  "deviceMemory": 0,
+  "blockWebRTC": true
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GestorTDD</string>
+    <string name="profiles_title">Perfiles</string>
+    <string name="new_profile">Nuevo perfil</string>
+    <string name="edit_profile">Editar perfil</string>
+    <string name="save_profile">Guardar perfil</string>
+    <string name="no_proxy">Sin proxy</string>
+    <string name="launch">Abrir</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="firebase_project_id">gestortdd</string>
+    <!-- Optional, unused in JSON mode -->
+    <string name="firebase_api_key" translatable="false"></string>
+    <!-- Public HTTPS JSON allowlist. Example GitHub Gist raw URL.
+         Put your device id (android-…) in the JSON then open the app. -->
+    <string name="auth_devices_url" translatable="false"></string>
+</resources>

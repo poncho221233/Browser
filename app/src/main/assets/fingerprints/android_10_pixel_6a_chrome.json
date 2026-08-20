@@ -1,0 +1,58 @@
+{
+  "id": "android-10-chrome126",
+  "name": "Android · Pixel 6a · Chrome",
+  "os": "Android",
+  "browser": "Chrome",
+  "version": "126.0.0.0",
+  "screenWidth": 1080,
+  "screenHeight": 2400,
+  "devicePixelRatio": 2.625,
+  "hardwareConcurrency": 8,
+  "deviceMemory": 6,
+  "webglVendor": "ARM",
+  "webglRenderer": "Mali-G78",
+  "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 6a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36",
+  "platform": "Linux armv8l",
+  "language": "es-MX",
+  "languages": [
+    "es-MX",
+    "es",
+    "en-US",
+    "en"
+  ],
+  "clientHints": {
+    "architecture": "",
+    "bitness": "64",
+    "mobile": "true",
+    "model": "Pixel 6a",
+    "platform": "Android",
+    "platformVersion": "14.0.0",
+    "uaFullVersion": "126.0.6478.122",
+    "fullVersionList": "Chromium;126.0.6478.122,Google Chrome;126.0.6478.122,Not-A.Brand;99.0.0.0"
+  },
+  "microphones": 1,
+  "speakers": 1,
+  "webcams": 1,
+  "fonts": [
+    "Roboto",
+    "Noto Sans",
+    "sans-serif",
+    "serif",
+    "monospace"
+  ],
+  "voices": [
+    {
+      "name": "Spanish Mexico",
+      "lang": "es-MX",
+      "localService": true,
+      "default": true
+    }
+  ],
+  "timezone": "America/Mexico_City",
+  "connectionType": "wifi",
+  "effectiveType": "4g",
+  "downlink": 25.0,
+  "rtt": 60,
+  "batteryLevel": 0.65,
+  "batteryCharging": false
+}

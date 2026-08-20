@@ -1,0 +1,66 @@
+{
+  "id": "windows-05-chrome126",
+  "name": "Windows 11 · RTX 3080 · Chrome",
+  "os": "Windows",
+  "browser": "Chrome",
+  "version": "126.0.0.0",
+  "screenWidth": 2560,
+  "screenHeight": 1440,
+  "devicePixelRatio": 1.0,
+  "hardwareConcurrency": 16,
+  "deviceMemory": 32,
+  "webglVendor": "Google Inc. (NVIDIA)",
+  "webglRenderer": "ANGLE (NVIDIA, NVIDIA GeForce RTX 3080 Direct3D11 vs_5_0 ps_5_0, D3D11)",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+  "platform": "Win32",
+  "language": "es-MX",
+  "languages": [
+    "es-MX",
+    "es",
+    "en-US",
+    "en"
+  ],
+  "clientHints": {
+    "architecture": "x86",
+    "bitness": "64",
+    "mobile": "false",
+    "model": "",
+    "platform": "Windows",
+    "platformVersion": "15.0.0",
+    "uaFullVersion": "126.0.6478.126",
+    "fullVersionList": "Chromium;126.0.6478.126,Google Chrome;126.0.6478.126,Not-A.Brand;99.0.0.0"
+  },
+  "microphones": 1,
+  "speakers": 1,
+  "webcams": 1,
+  "fonts": [
+    "Arial",
+    "Calibri",
+    "Cambria",
+    "Comic Sans MS",
+    "Consolas",
+    "Courier New",
+    "Georgia",
+    "Impact",
+    "Segoe UI",
+    "Tahoma",
+    "Times New Roman",
+    "Trebuchet MS",
+    "Verdana"
+  ],
+  "voices": [
+    {
+      "name": "Microsoft Sabina - Spanish (Mexico)",
+      "lang": "es-MX",
+      "localService": true,
+      "default": true
+    }
+  ],
+  "timezone": "America/Mexico_City",
+  "connectionType": "wifi",
+  "effectiveType": "4g",
+  "downlink": 40.0,
+  "rtt": 40,
+  "batteryLevel": 1.0,
+  "batteryCharging": true
+}

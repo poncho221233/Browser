@@ -1,0 +1,77 @@
+{
+  "id": "macos-09-chrome126",
+  "name": "macOS · M1 · Chrome",
+  "os": "macOS",
+  "browser": "Chrome",
+  "version": "126.0.0.0",
+  "screenWidth": 2560,
+  "screenHeight": 1600,
+  "devicePixelRatio": 2.0,
+  "hardwareConcurrency": 8,
+  "deviceMemory": 16,
+  "webglVendor": "Google Inc. (Apple)",
+  "webglRenderer": "ANGLE (Apple, ANGLE Metal Renderer: Apple M1, Unspecified Version)",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+  "platform": "MacIntel",
+  "language": "es-MX",
+  "languages": [
+    "es-MX",
+    "es",
+    "en-US",
+    "en"
+  ],
+  "clientHints": {
+    "architecture": "arm",
+    "bitness": "64",
+    "mobile": "false",
+    "model": "",
+    "platform": "macOS",
+    "platformVersion": "14.5.0",
+    "uaFullVersion": "126.0.6478.126",
+    "fullVersionList": "Chromium;126.0.6478.126,Google Chrome;126.0.6478.126,Not-A.Brand;99.0.0.0"
+  },
+  "microphones": 1,
+  "speakers": 1,
+  "webcams": 1,
+  "fonts": [
+    "Arial",
+    "Helvetica",
+    "Helvetica Neue",
+    "Times",
+    "Times New Roman",
+    "Courier",
+    "Courier New",
+    "Verdana",
+    "Georgia",
+    "Menlo",
+    "Monaco",
+    "SF Pro Text",
+    "SF Pro Display",
+    "SF Mono",
+    "Avenir",
+    "Avenir Next",
+    "Geneva",
+    "Lucida Grande"
+  ],
+  "voices": [
+    {
+      "name": "Samantha",
+      "lang": "en-US",
+      "localService": true,
+      "default": true
+    },
+    {
+      "name": "Paulina",
+      "lang": "es-MX",
+      "localService": true,
+      "default": false
+    }
+  ],
+  "timezone": "America/Mexico_City",
+  "connectionType": "wifi",
+  "effectiveType": "4g",
+  "downlink": 50.0,
+  "rtt": 30,
+  "batteryLevel": 0.78,
+  "batteryCharging": false
+}

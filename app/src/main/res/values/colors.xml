@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_dark">#121218</color>
+    <color name="surface_dark">#1E1E28</color>
+    <color name="surface_variant">#2A2A36</color>
+    <color name="accent_purple">#6366F1</color>
+    <color name="accent_purple_light">#818CF8</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#A0A0B0</color>
+    <color name="error">#EF4444</color>
+    <color name="success">#22C55E</color>
+    <color name="divider">#333340</color>
+    <color name="launcher_bg">#0F172A</color>
+</resources>

@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "name": "AntiDetect Spoof",
+  "version": "1.2.0",
+  "description": "Early document_start spoofing of Canvas, WebGL, Audio, ClientRects, Navigator and related APIs",
+  "permissions": [
+    "<all_urls>",
+    "http://127.0.0.1/*",
+    "http://localhost/*",
+    "tabs",
+    "storage",
+    "webRequest",
+    "proxy",
+    "webRequestBlocking",
+    "privacy"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>",
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "early-spoof.js",
+        "inject.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true,
+      "match_about_blank": true
+    }
+  ],
+  "web_accessible_resources": [
+    "page-world.js",
+    "early-spoof.js",
+    "config.json"
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "antidetect-spoof-v5@local",
+      "strict_min_version": "113.0"
+    },
+    "gecko_android": {
+      "strict_min_version": "113.0"
+    }
+  }
+}
